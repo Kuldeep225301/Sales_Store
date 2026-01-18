@@ -1,7 +1,13 @@
 # Sales Store Analysis
 
+# Store_background
+
+A Retail store chain tracks daily sales transation, including order details, customer info, product categories, order time and order status. the business optimize 
+
 # Probmen Statement
-Because of this, they are missing chances to earn more, losing customers, and making poor business decisions.
+
+Because of this, they are missing chances to earn more, losing customers, and making poor business wants to  optimize operations, improve customer experience and increase
+profitability using data-driven decisions.
 
 1 The store doesn't have a clear idea about
 
