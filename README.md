@@ -1,15 +1,15 @@
+# Sales Store Analysis
+
 # Probmen Statement
 Because of this, they are missing chances to earn more, losing customers, and making poor business decisions.
 
-. The store doesn't have a clear idea about
+1 The store doesn't have a clear idea about
 
-. which products sell the most,
+2. which products sell the most,
 
-. customers preference,
+3 customers preference,
 
-. which items bring in the most profit, and
-
-. where things are going wrong in delivery or operations.
+4 which items bring in the most profit, and where things are going wrong in delivery or operations.
 
 
 # Solution
